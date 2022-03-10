@@ -15,7 +15,7 @@
 * Linux isn't magic, it's sudo science
 
 * Puns make me numb
-   * math puns make me number
+   * math puns make me NUMBER
 
 * Bugs are just plot holes in your code
 
