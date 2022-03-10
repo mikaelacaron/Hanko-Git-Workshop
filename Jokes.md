@@ -15,7 +15,7 @@
 * Linux isn't magic, it's sudo science
 
 * Puns make me numb
-   * math puns make me number
+   * math puns make me NUMBER
 
 * Bugs are just plot holes in your code
 
@@ -87,7 +87,7 @@
 * I want to start a business selling comfortable clothes for coding and WFH.
   * I'll name it the Softwear Company
 
-* Roses are red, violets are blue, git reset --hard, when cmd+z won't do
+* Roses are red, violets are blue, git reset --hard, when cmd+z won't do **** not a fan of this joke ****
 
 * If a programmer gets an interview because of a recommendation from a friend, are they being passed by reference?
 
