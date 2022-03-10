@@ -42,7 +42,7 @@
 * Find someone who cares about you like GitHub does when you try to delete a repo
 
 * Am I testing my code...
-   * Or is it testing me?
+   * Or is it testing me?????
 
 * "Go to bed, you'll feel bette rin the morning" is the human equivalent of "Try turning it off and back on again"
 
