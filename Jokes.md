@@ -28,6 +28,7 @@
    * In fact, I would just a void them.
 
 * !false
+   * It's funny because it's TRUE
    * It's funny because it's true!
 
 * In order to understand recursion you must first understand recursion.
