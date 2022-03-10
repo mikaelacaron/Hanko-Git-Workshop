@@ -110,3 +110,6 @@
 
 * I never tell the same joke twice
    * I have a DRY sense of humor
+
+* How many programmers does it take to screw in a light bulb?
+   * That’s a hardware problem.
