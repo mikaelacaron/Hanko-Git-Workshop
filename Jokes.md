@@ -111,5 +111,7 @@
 * I never tell the same joke twice
    * I have a DRY sense of humor
 
-There are only 10 kinds of people in this world: those who know binary and those who don’t.
+* There are only 10 kinds of people in this world: those who know binary and those who don’t.
 
+* How many programmers does it take to screw in a light bulb?
+   * That’s a hardware problem.
