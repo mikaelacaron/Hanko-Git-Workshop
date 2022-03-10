@@ -28,7 +28,7 @@
    * In fact, I would just a void them.
 
 * !false
-   * It's funny because it's true
+   * It's funny because it's true!
 
 * In order to understand recursion you must first understand recursion.
 
@@ -42,7 +42,7 @@
 * Find someone who cares about you like GitHub does when you try to delete a repo
 
 * Am I testing my code...
-   * Or is it testing me?
+   * Or will I leave the testing to QA?
 
 * "Go to bed, you'll feel bette rin the morning" is the human equivalent of "Try turning it off and back on again"
 
@@ -97,7 +97,7 @@
    * In a dad-a-base
 
 * What do hacker do on a boat?
-   * Phishing
+   * Phishing11
 
 * What do you call a bee that lives in America?
    * A USB
