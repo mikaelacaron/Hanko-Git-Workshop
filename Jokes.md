@@ -107,7 +107,7 @@
    * Async
 
 * What's the second movie about a database engineer called?
-   * A SQL
+   * A SQL-Lite
 
 * I never tell the same joke twice
    * I have a DRY sense of humor
