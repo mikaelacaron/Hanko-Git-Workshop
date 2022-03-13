@@ -46,6 +46,7 @@
    * Or will I leave the testing to QA?
 
 * "Go to bed, you'll feel bette rin the morning" is the human equivalent of "Try turning it off and back on again"
+  * Huge facts lol
 
 * This [video](https://twitter.com/cool_testers/status/1352116560425439234?s=12)
 
