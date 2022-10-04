@@ -15,7 +15,7 @@
 * Linux isn't magic, it's sudo science
 
 * Puns make me numb
-   * math puns make me NUMBER
+   * Math puns make me NUMBER
 
 * Bugs are just plot holes in your code
 
@@ -28,8 +28,7 @@
    * In fact, I would just a void them.
 
 * !false
-   * It's funny because it's TRUE
-   * It's funny because it's true!
+   * It's funny because it's true
 
 * In order to understand recursion you must first understand recursion.
 
@@ -45,8 +44,7 @@
 * Am I testing my code...
    * Or will I leave the testing to QA?
 
-* "Go to bed, you'll feel bette rin the morning" is the human equivalent of "Try turning it off and back on again"
-  * Huge facts lol
+* "Go to bed, you'll feel better in the morning" is the human equivalent of "Try turning it off and back on again"
 
 * This [video](https://twitter.com/cool_testers/status/1352116560425439234?s=12)
 
@@ -68,14 +66,14 @@
 * I was bragging that I knew the hex code for every color, but then I forgot the one for blue.
    * Yeah, it was a big 0000FF.
 
-   * I wanted to learn more about machine code so I took a Binary 101 class.
-      * It wasn't useful because it turned out to be the 5th class in a series
+* I wanted to learn more about machine code so I took a Binary 101 class.
+   * It wasn't useful because it turned out to be the 5th class in a series
 
-   * I walked down a street where the houses were numbered 64K, 128K, 256K, 512K, and 1MB.
-      * It was a nice trip down memory lane.
+* I walked down a street where the houses were numbered 64K, 128K, 256K, 512K, and 1MB.
+   * It was a nice trip down memory lane.
 
-   * I have a disease where I can't stop telling bad Linux jokes.
-      * My doctor says it's terminal
+* I have a disease where I can't stop telling bad Linux jokes.
+   * My doctor says it's terminal
 
 * I have a great oneliner for you:
    * `\n`
@@ -88,7 +86,7 @@
 * I want to start a business selling comfortable clothes for coding and WFH.
   * I'll name it the Softwear Company
 
-* Roses are red, violets are blue, git reset --hard, when cmd+z won't do **** not a fan of this joke ****
+* Roses are red, violets are blue, git reset --hard, when cmd+z won't do
 
 * If a programmer gets an interview because of a recommendation from a friend, are they being passed by reference?
 
@@ -98,8 +96,8 @@
 * Where do dad programmers store their jokes?
    * In a dad-a-base
 
-* What do hacker do on a boat?
-   * Phishing11
+* What do hackers do on a boat?
+   * Phishing
 
 * What do you call a bee that lives in America?
    * A USB
@@ -108,12 +106,10 @@
    * Async
 
 * What's the second movie about a database engineer called?
-   * A SQL-Lite
+   * A SQL
 
 * I never tell the same joke twice
    * I have a DRY sense of humor
-
-* There are only 10 kinds of people in this world: those who know binary and those who don’t.
 
 * How many programmers does it take to screw in a light bulb?
    * That’s a hardware problem.
