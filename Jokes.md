@@ -59,7 +59,7 @@
    * I'm stuck between a rock and a --hard reset
 
 * Junior dev: "I messed up so bad, I'm so fired!"
-   * Senior dev: "I have 3 production outages named after me lol"
+   * Senior dev: "I have three production outages named after me lol"
 
 * We missed a really great opportunity to call containerization programs tupper-ware
 
