@@ -77,6 +77,10 @@
 
 * I have a great oneliner for you:
    * `\n`
+   
+* Mark - There are only 10 kinds of people in this world: those who know binary and those who don’t.
+
+
 
 * Want to hear a joke about documentation?
    * It's not done yet.
