@@ -12,10 +12,10 @@
 * Why do Java programmers have to wear glasses?
    * Because they don't C#
 
-* Linux isn't magic, it's sudo science
+* Linux isn't magic, it's sudo science!!
 
 * Puns make me numb
-   * math puns make me number
+   * Math puns make me NUMBER
 
 * Bugs are just plot holes in your code
 
@@ -28,7 +28,7 @@
    * In fact, I would just a void them.
 
 * !false
-   * It's funny because it's true
+   * It's funny because it's TRUE
 
 * In order to understand recursion you must first understand recursion.
 
@@ -42,9 +42,9 @@
 * Find someone who cares about you like GitHub does when you try to delete a repo
 
 * Am I testing my code...
-   * Or is it testing me?
+   * Or will I leave the testing to QA?
 
-* "Go to bed, you'll feel bette rin the morning" is the human equivalent of "Try turning it off and back on again"
+* "Go to bed, you'll feel better in the morning" is the human equivalent of "Try turning it off and back on again"
 
 * This [video](https://twitter.com/cool_testers/status/1352116560425439234?s=12)
 
@@ -59,24 +59,28 @@
    * I'm stuck between a rock and a --hard reset
 
 * Junior dev: "I messed up so bad, I'm so fired!"
-   * Senior dev: "I have 3 production outages named after me lol"
+   * Senior dev: "I have three production outages named after me lol"
 
 * We missed a really great opportunity to call containerization programs tupper-ware
 
 * I was bragging that I knew the hex code for every color, but then I forgot the one for blue.
    * Yeah, it was a big 0000FF.
 
-   * I wanted to learn more about machine code so I took a Binary 101 class.
-      * It wasn't useful because it turned out to be the 5th class in a series
+* I wanted to learn more about machine code so I took a Binary 101 class.
+   * It wasn't useful because it turned out to be the 5th class in a series
 
-   * I walked down a street where the houses were numbered 64K, 128K, 256K, 512K, and 1MB.
-      * It was a nice trip down memory lane.
+* I walked down a street where the houses were numbered 64K, 128K, 256K, 512K, and 1MB.
+   * It was a nice trip down memory lane.
 
-   * I have a disease where I can't stop telling bad Linux jokes.
-      * My doctor says it's terminal
+* I have a disease where I can't stop telling bad Linux jokes.
+   * My doctor says it's terminal
 
 * I have a great oneliner for you:
    * `\n`
+   
+* Mark - There are only 10 kinds of people in this world: those who know binary and those who don’t.
+
+
 
 * Want to hear a joke about documentation?
    * It's not done yet.
@@ -96,7 +100,11 @@
 * Where do dad programmers store their jokes?
    * In a dad-a-base
 
-* What do hacker do on a boat?
+* Knock Knock?
+   * Race Condition
+   * Who's there?
+
+* What do hackers do on a boat?
    * Phishing
 
 * What do you call a bee that lives in America?
