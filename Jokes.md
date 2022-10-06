@@ -12,7 +12,7 @@
 * Why do Java programmers have to wear glasses?
    * Because they don't C#
 
-* Linux isn't magic, it's sudo science
+* Linux isn't magic, it's sudo science!!
 
 * Puns make me numb
    * Math puns make me NUMBER
@@ -28,7 +28,7 @@
    * In fact, I would just a void them.
 
 * !false
-   * It's funny because it's true
+   * It's funny because it's TRUE
 
 * In order to understand recursion you must first understand recursion.
 
