@@ -96,6 +96,10 @@
 * Where do dad programmers store their jokes?
    * In a dad-a-base
 
+* Knock Knock?
+   * Race Condition
+   * Who's there?
+
 * What do hackers do on a boat?
    * Phishing
 
