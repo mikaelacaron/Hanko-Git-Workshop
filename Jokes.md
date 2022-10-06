@@ -12,7 +12,7 @@
 * Why do Java programmers have to wear glasses?
    * Because they don't C#
 
-* Linux isn't magic, it's sudo science
+* Linux isn't magic, it's sudo SCIENCE
 
 * Puns make me numb
    * Math puns make me NUMBER
@@ -112,4 +112,4 @@
    * I have a DRY sense of humor
 
 * How many programmers does it take to screw in a light bulb?
-   * That’s a hardware problem.
+   * That’s a hardware problem. 
