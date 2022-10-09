@@ -10,7 +10,7 @@
     * They read the shampoo bottle instructions: Lather. Rinse. Repeat.
 
 * Why do Java programmers have to wear glasses?
-   * Because they don't C#
+   * Because they don't C#!
 
 * Linux isn't magic, it's sudo science!!
 
