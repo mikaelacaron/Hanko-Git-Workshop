@@ -124,3 +124,9 @@
    
 * Coffee not doing it for you anymore?
    * Take down production instead.
+
+* Why did the programmer quit his job? 
+    * Because he didn't get arrays
+
+* How programmers and cats are alike?
+   * They both can sit in the same position for long time and get excited when they find a bug
