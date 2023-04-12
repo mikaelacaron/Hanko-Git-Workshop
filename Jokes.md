@@ -121,3 +121,6 @@
 
 * How many programmers does it take to change a light bulb? 
     * none, that's a hardware problem
+   
+* Coffee not doing it for you anymore?
+   * Take down production instead.
