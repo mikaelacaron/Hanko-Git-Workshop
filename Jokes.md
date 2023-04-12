@@ -10,7 +10,7 @@
     * They read the shampoo bottle instructions: Lather. Rinse. Repeat.
 
 * Why do Java programmers have to wear glasses?
-   * Because they don't C#
+   * Because they don't C#!
 
 * Linux isn't magic, it's sudo science!!
 
@@ -124,3 +124,6 @@
 
 * Why did the programmer quit his job? 
     * Because he didn't get arrays
+
+* How programmers and cats are alike?
+   * They both can sit in the same position for long time and get excited when they find a bug
