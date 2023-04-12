@@ -121,6 +121,9 @@
 
 * How many programmers does it take to change a light bulb? 
     * none, that's a hardware problem
+   
+* Coffee not doing it for you anymore?
+   * Take down production instead.
 
 * How do you confuse a tired devloper?
    * Show a demo of git on the command line rather than a GUI
@@ -128,8 +131,8 @@
 * How many programmers does it take to screw in a light bulb?
    * That’s a hardware problem.
 
-* Why did the programmer quit his job? 
-    * Because he didn't get arrays
+* Why did the programmer quit their job? 
+    * Because they didn't get arrays
 
 * How programmers and cats are alike?
    * They both can sit in the same position for long time and get excited when they find a bug
