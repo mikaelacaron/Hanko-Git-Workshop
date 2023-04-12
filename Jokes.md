@@ -121,3 +121,6 @@
 
 * How many programmers does it take to change a light bulb? 
     * none, that's a hardware problem
+
+* How programmers and cats are alike?
+   * They both can sit in the same position for long time and get excited when they find a bug
