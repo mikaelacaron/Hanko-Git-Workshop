@@ -78,9 +78,7 @@
 * I have a great oneliner for you:
    * `\n`
    
-* Mark - There are only 10 kinds of people in this world: those who know binary and those who don’t.
-
-
+* There are only 10 kinds of people in this world: those who know binary and those who don’t.
 
 * Want to hear a joke about documentation?
    * It's not done yet.
@@ -124,9 +122,6 @@
    
 * Coffee not doing it for you anymore?
    * Take down production instead.
-
-* How do you confuse a tired devloper?
-   * Show a demo of git on the command line rather than a GUI
 
 * How many programmers does it take to screw in a light bulb?
    * That’s a hardware problem.
